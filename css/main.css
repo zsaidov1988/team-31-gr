@@ -1,6 +1,29 @@
+
 .open{
   color: blue;
 }
 .text{
   color: darkgreen;
+
+.list{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 15px 15px;
+}
+
+.item{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  
+}
+
+a{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
 }
